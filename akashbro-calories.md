@@ -3,7 +3,7 @@
 **Last updated and effective date:** 23 October 2026
 
 **Developer:** Akash Chhetri (akashbro)  
-**Contact:** akash.chhetri1@gmail.com  
+**Contact:** android.curler416@passfwd.com  
 **Android package:** `com.akashbro.calorie`
 
 This policy explains how AkashBro Calorie (also referred to as akashbro-calories) handles information. The app provides food and calorie logging, nutrition targets, weight tracking, water tracking, fasting tracking and optional reminders. No account is required.
@@ -64,4 +64,4 @@ We may update this policy when the app or its data practices change. The revised
 
 ## Privacy questions
 
-Contact **Akash Chhetri** at **akash.chhetri1@gmail.com** with questions about this policy or your information.
+Contact **Akash Chhetri** at **android.curler416@passfwd.com** with questions about this policy or your information.

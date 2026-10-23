@@ -9,7 +9,7 @@
 **Top5Percent** (also listed as "Top 5% – Reaction Challenge" on the Google Play Store) is committed to maintaining the privacy and security of its users. This Privacy Policy describes how we handle information in our mobile application.
 
 **Developer:** Akash Chhetri  
-**Contact:** akash.chhetri1@gmail.com  
+**Contact:** android.curler416@passfwd.com  
 
 ---
 
@@ -52,4 +52,4 @@ We may update our Privacy Policy from time to time. Any changes will be reflecte
 ## 8. Contact Us
 If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
 
-**Email:** akash.chhetri1@gmail.com
+**Email:** android.curler416@passfwd.com
